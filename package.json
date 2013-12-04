@@ -1,6 +1,6 @@
 {
-    "name": "f4middlewares",
-    "description": "usefull middlewares",
+    "name": "f4-express-middlewares",
+    "description": "useful middlewares",
     "version": "0.0.3",
     "main": "index.js",
     "dependencies": {}
